@@ -7,9 +7,9 @@ Project template for SDK developers
 
 2. The Config.json file includes five parameters: PlantId, ApplicationId, APIKey, Subscription-Key, and FileName. These keys are needed to access the Developer Portal/SDK APIs.
 
-3. The PlantId can be found in Site Manager at this link(https://sitemanager.ability.abb/#/settings/site), where the SiteIdentifier serves as the PlantId.
+3. The PlantId can be found in Site Manager, where the SiteIdentifier serves as the PlantId.
 
-4. The values for ApplicationId, APIKey, and Subscription-Key can be obtained from the Developer Portal/SDK portal at this link((https://developers.connect.abb.com/application)) and should be updated accordingly in the config.json file.
+4. The values for ApplicationId, APIKey, and Subscription-Key can be obtained from the Developer Portal/SDK portal and should be updated accordingly in the config.json file.
 
 
 5. FileName refers to the name of the Excel file in the current folder. "SampleDataSource.xlsx" is an Excel file current used as sample, that contains Enpi Parameter Names, Date, and values to update Site Manager/Platform.
