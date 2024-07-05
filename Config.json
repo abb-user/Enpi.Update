@@ -1,0 +1,7 @@
+{
+  "PlantID": "77903d8a-ba6e-4510-b1bb-d96f415f2120", //ProdSite_08Sept22_01
+  "ApplicationId": "c63a1b64-269e-4d48-92bb-ed4680294812",
+  "APIKey": "4SWDqezj2TRUY90L1m0+E5s4RX6xfnB7fg==",
+  "SubscriptionKey": "f46064744f434b4ea2d75158daebe325",
+  "FileName": "SampleDataSource.xlsx" //Should be Excel File.
+}
